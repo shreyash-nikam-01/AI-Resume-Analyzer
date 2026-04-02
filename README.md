@@ -25,7 +25,7 @@ An AI-powered web application that analyzes resumes and provides feedback on ski
 - Add authentication & user dashboard
 
 ## 🎥 Demo
-(Add your video or LinkedIn link here)
+
 
 ## 🤝 Feedback
 Open to suggestions and improvements!# AI-Resume-Analyzer
